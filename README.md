@@ -44,6 +44,7 @@
     - Дашборд "план/факт" по продажам
       
 ## Сертификаты   
+Лучший способ показать свои навыки - это показать проделанную работу, но иногда полученные сертификаты и пройденные курсы в этом могут помочь. Здесь список некоторых моих сертификатов и курсов. Полный перечень изученных материалов и сертификатов указан в GitHub Pages.
 - Data Analyst course [Karpov.courses]
 - AB-tests Simulator (PRO version) [Karpov.courses]
 - Data Analyst Simulator [Karpov.courses]
@@ -63,6 +64,12 @@
 
 ОАО «Метрострой», Санкт-Петербург &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 11.2016 – 08.2021<br>
 Ведущий инженер<br>
+
+## Контакты
+ - Телефон/WhatsApp — 8-931-335-86-74
+ - Телеграм - https://t.me/NikitaJehu
+ - Почта - maslov.analytics@gmail.com
+
 
 
 
